@@ -3,13 +3,7 @@
 This README would normally document whatever steps are necessary to get your application up and running.
 This repository is a phonegap Framework7 application for alarm.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
+### How to get set up these? ###
 
 * Make sure you have an up-to-date version of [Node.js](http://nodejs.org/) installed on your system.
 * Open Terminal (Mac) or a Command window (Windows), and type the following command to install the Cordova CLI:
@@ -44,17 +38,6 @@ cordova platform add ios
 cordova emulate android
 cordova run android
 ```
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
 
 Copyright
 ---------
