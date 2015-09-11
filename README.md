@@ -1,6 +1,7 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
+This repository is a phonegap Framework7 application for alarm.
 
 ### What is this repository for? ###
 
